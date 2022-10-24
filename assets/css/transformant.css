@@ -429,8 +429,9 @@ footer .nav-link:focus {
   .slider-section img {
     height: 300px;
   }
-  .slider-section .carousel-item {
-    height: 300px;
+  .slider-section .carousel-item,
+  .slider-section .carousel-item img {
+    height: 450px;
   }
   .slider-section .carousel-item .carousel-caption {
     top:3%;

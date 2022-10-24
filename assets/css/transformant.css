@@ -440,10 +440,10 @@ footer .nav-link:focus {
 
 @media (min-width:768px) and (max-width:991px) {
   .slider-section img {
-    height: 350px;
+    height: 400px;
   }
   .slider-section .carousel-item {
-    height: 350px;
+    height: 400px;
   }
   .slider-section .carousel-item .carousel-caption {
     top:3%;
